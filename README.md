@@ -46,7 +46,7 @@ class Book(models.Model):
 ```
 # OUTPUT
 
-![alt text](<Screenshot 2025-03-25 210249.png>)
+![alt text](<Screenshot 2025-03-25 212606.png>)
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
